@@ -6,8 +6,6 @@ A simple, full-stack web application built with the MERN stack (MongoDB, Express
 
 ![App Screenshot](docs/screenshot.png)
 
-*(**How to add a screenshot:** Take a screenshot of your running application. Create a folder named `docs` inside your `my-crud-app` folder. Save the image there as `screenshot.png`. Then, update the path above to `docs/screenshot.png`)*
-
 ***
 ---
 
